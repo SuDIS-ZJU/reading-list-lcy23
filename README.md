@@ -1,6 +1,6 @@
 # reading-list-lcy23
 
-#### Last Update: 2023/10/10
+#### Last Update: 2023/10/13
 
-## Time Series Classification (TSC)
- - [TSC with data compression](./TSC/TSC_data_compression.md)
+## Time Series Compression
+ - [algorithm](./ts_compression/algorithm.md)
