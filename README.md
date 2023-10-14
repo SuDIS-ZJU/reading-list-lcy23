@@ -1,6 +1,6 @@
 # reading-list-lcy23
 
-#### Last Update: 2023/10/13
+#### Last Update: 2023/10/14
 
 ## Time Series Compression
  - [algorithm](./ts_compression/algorithm.md)
