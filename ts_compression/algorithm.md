@@ -10,4 +10,5 @@
 |[Titchy: Online Time-series Compression with Random Access for the Internet of Things](https://sci-hub.se/10.1109/jiot.2021.3081868)|IEEE Internet of Things Journal 2021|✔|提出了一种无损的压缩方案，使用设定好的误差将数据近似到相同的基底上，记录公共基底字典和误差，去除数据冗余以达到压缩的目的,可以支持快速随机查询|
 |[Chimp: Efficient Lossless Floating Point Compression for Time Series Databases](https://www.vldb.org/pvldb/vol15/p3058-liakos.pdf)|PVLDB 2022|✔|提出了一种无损的浮点数流压缩方案，基于异或编码和前导0在数据集上的分布实现对类似于Gorilla算法的优化，同时提供CHIMP128的算法以相比较慢的速度换取显著提升的压缩率|
 |[[Chimp: Efficient Lossless Floating Point Compression for Time Series Databases](https://sci-hub.se/10.1109/tsg.2020.3040370)](https://sci-hub.se/10.1109/tsg.2020.3040370)|PVLDB 2022|✔|提出了一种无状态无模型的智能电网数据无损压缩方案，特别适用于长时间稳定的高分辨率时间序列|
+|[A Randomly Accessible Lossless Compression Scheme for Time-Series Data](https://sci-hub.se/10.1109/infocom41043.2020.9155450)|IEEE INFOCOM 2020 - IEEE Conference on Computer Communications|✔|提出了一种支持不解压缩，允许随机访问的无损时序数据压缩方案|
 [Back to index](../README.md)
