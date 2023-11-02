@@ -12,4 +12,6 @@
 |[Model-Free Lossless Data Compression for Real-Time Low-Latency Transmission in Smart Grids](https://sci-hub.se/10.1109/tsg.2020.3040370)|IEEE Transactions on Smart Grid 2021/05/01|✔|提出了一种无状态无模型的智能电网数据无损压缩方案，特别适用于长时间稳定的高分辨率时间序列|
 |[A Randomly Accessible Lossless Compression Scheme for Time-Series Data](https://sci-hub.se/10.1109/infocom41043.2020.9155450)|IEEE INFOCOM 2020|✔|提出了一种支持不解压缩，允许随机访问的无损时序数据压缩方案|
 |[Lossless Data Compression for Time-Series Sensor Data Based on Dynamic Bit Packing](https://www.mdpi.com/1424-8220/23/20/8575)|Sensors 2023|✔|提出了对于Springz框架的一种优化方案，即动态位压缩|
+|[Lossless compression of industrial time series with direct access](https://www.sciencedirect.com/science/article/pii/S016636152100110X)|Computers in Industry 2021|✔|提出了一种结合了Re-Pair和DACs,无需解压可直接访问查询的压缩方案DACT|
+|[Near Lossless Time Series Data Compression Methods using Statistics and Deviation](https://arxiv.org/pdf/2209.14162.pdf)|IEEE GlobeCom 2022|✔|提出了基于统计和数据偏差的无损压缩方案|
 [Back to index](../README.md)
