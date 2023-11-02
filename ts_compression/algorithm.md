@@ -14,4 +14,5 @@
 |[Lossless Data Compression for Time-Series Sensor Data Based on Dynamic Bit Packing](https://www.mdpi.com/1424-8220/23/20/8575)|Sensors 2023|✔|提出了对于Springz框架的一种优化方案，即动态位压缩|
 |[Lossless compression of industrial time series with direct access](https://www.sciencedirect.com/science/article/pii/S016636152100110X)|Computers in Industry 2021|✔|提出了一种结合了Re-Pair和DACs,无需解压可直接访问查询的压缩方案DACT|
 |[Near Lossless Time Series Data Compression Methods using Statistics and Deviation](https://arxiv.org/pdf/2209.14162.pdf)|IEEE GlobeCom 2022|✔|提出了基于统计和数据偏差的无损压缩方案|
+|[LFZip: Lossy compression of multivariate floating-point time series data via improved prediction](https://sci-hub.se/10.1109/dcc47342.2020.00042)|2020 Data Compression Conference (DCC)|×|提出了使用神经网络以及均一化最小均方预测器NLMS的有损压缩方案，其优于现在最先进的有损压缩方案SZ|
 [Back to index](../README.md)
