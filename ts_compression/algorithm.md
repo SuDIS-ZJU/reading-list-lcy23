@@ -15,4 +15,6 @@
 |[Lossless compression of industrial time series with direct access](https://www.sciencedirect.com/science/article/pii/S016636152100110X)|Computers in Industry 2021|✔|提出了一种结合了Re-Pair和DACs,无需解压可直接访问查询的压缩方案DACT|
 |[Near Lossless Time Series Data Compression Methods using Statistics and Deviation](https://arxiv.org/pdf/2209.14162.pdf)|IEEE GlobeCom 2022|✔|提出了基于统计和数据偏差的无损压缩方案|
 |[LFZip: Lossy compression of multivariate floating-point time series data via improved prediction](https://sci-hub.se/10.1109/dcc47342.2020.00042)|2020 Data Compression Conference (DCC)|×|提出了使用神经网络以及均一化最小均方预测器NLMS的有损压缩方案，其优于现在最先进的有损压缩方案SZ|
+|[Direct Lightweight Temporal Compression for Wearable Sensor Data](https://sci-hub.se/10.1109/lsens.2021.3051809)|2021 Sensors Letters|✔|提出了在LTC算法的基础上进行的优化版本DLTC，其在数据集上的表现要优于原算法|
+|[DZip: improved general-purpose lossless compression based on novel neural network modeling](https://sci-hub.se/10.1109/dcc50243.2021.00023)|2021 Data Compression Conference (DCC)|×|提出了基于神经网络的无损压缩方案DZip,其创新性在于一个半自适应的支持者模型和一个自适应的引导者模型，通过对两个模型的结果设置学习参数来重建原数据|
 [Back to index](../README.md)
