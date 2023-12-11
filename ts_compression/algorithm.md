@@ -17,4 +17,9 @@
 |[LFZip: Lossy compression of multivariate floating-point time series data via improved prediction](https://sci-hub.se/10.1109/dcc47342.2020.00042)|2020 Data Compression Conference (DCC)|×|提出了使用神经网络以及均一化最小均方预测器NLMS的有损压缩方案，其优于现在最先进的有损压缩方案SZ|
 |[Direct Lightweight Temporal Compression for Wearable Sensor Data](https://sci-hub.se/10.1109/lsens.2021.3051809)|2021 Sensors Letters|✔|提出了在LTC算法的基础上进行的优化版本DLTC，其在数据集上的表现要优于原算法|
 |[DZip: improved general-purpose lossless compression based on novel neural network modeling](https://sci-hub.se/10.1109/dcc50243.2021.00023)|2021 Data Compression Conference (DCC)|×|提出了基于神经网络的无损压缩方案DZip,其创新性在于一个半自适应的支持者模型和一个自适应的引导者模型，通过对两个模型的结果设置学习参数来重建原数据|
+|[Full-State Quantum Circuit Simulation by Using Data Compression](https://www.sci-hub.se/10.1145/3295500.3356155)|2019 Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis|×|提出用于量子电路仿真的计算前压缩算法框架。其中有损和无损压缩的方案均有使用，并提出了压缩缓存机制的引入和无损压缩算法通过截断误差来变为有损算法|
+|[An Edge-Fog Computing Enabled Lossless EEG Data Compression with Epileptic Seizure Detection in IoMT Networks](https://hal.science/hal-04257358/document)|2022 IEEE Internet of Things Journal|√|提出用于医学ECG数据的，传感器-边缘-雾-云端的架构，着眼点在其中经过的两次无损压缩，是基于K-means聚类和霍夫曼编码的算法，并且在压缩过程中经历了两次压缩|
+|[Time series data encoding for efficient storage](https://www.vldb.org/pvldb/vol15/p2148-song.pdf)|2022 Proceedings of the VLDB Endowment|√|将几种常见的无损压缩算法集成到了Apache IoTDB中并进行了测试，其中RAKE算法和RLBE算法中的斐波那契编码有不错的参考价值|
+|[Apache IoTDB: time-series database for internet of things](https://www.vldb.org/pvldb/vol13/p2901-wang.pdf)|2020 Proceedings of the VLDB Endowment|-|提出了柱状储存的时序数据库Apache IoTDB|
+|[Heracles: an efficient storage model and data flushing for performance monitoring timeseries](https://www.vldb.org/pvldb/vol14/p1080-wang.pdf)|2020 Proceedings of the VLDB|√|提出了时序数据库储存引擎Heracles，它基本继承了Gorilla的方案，并且通过跳出复用case的方法来尽量跳出局部最优解，使得算法更接近全局最优解|
 [Back to index](../README.md)
