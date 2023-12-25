@@ -22,4 +22,7 @@
 |[Time series data encoding for efficient storage](https://www.vldb.org/pvldb/vol15/p2148-song.pdf)|2022 Proceedings of the VLDB Endowment|√|将几种常见的无损压缩算法集成到了Apache IoTDB中并进行了测试，其中RAKE算法和RLBE算法中的斐波那契编码有不错的参考价值|
 |[Apache IoTDB: time-series database for internet of things](https://www.vldb.org/pvldb/vol13/p2901-wang.pdf)|2020 Proceedings of the VLDB Endowment|-|提出了柱状储存的时序数据库Apache IoTDB|
 |[Heracles: an efficient storage model and data flushing for performance monitoring timeseries](https://www.vldb.org/pvldb/vol14/p1080-wang.pdf)|2020 Proceedings of the VLDB|√|提出了时序数据库储存引擎Heracles，它基本继承了Gorilla的方案，并且通过跳出复用case的方法来尽量跳出局部最优解，使得算法更接近全局最优解|
+|[Heracles: an efficient storage model and data flushing for performance monitoring timeseries](https://www.vldb.org/pvldb/vol14/p1080-wang.pdf)|2020 Proceedings of the VLDB|√|提出了时序数据库储存引擎Heracles，它基本继承了Gorilla的方案，并且通过跳出复用case的方法来尽量跳出局部最优解，使得算法更接近全局最优解|
+|[TSXor: A Simple Time Series Compression Algorithm](https://iris.unive.it/retrieve/084835c3-ea1d-437f-baac-78ac1f3742bd/SPIRE2021.pdf)|2020 Proceedings of the VLDB|√|提出了TSXor时序数据压缩方案|
+|[V-PFORDelta: Data Compression for Energy Efficient Computation of Time Series](https://www.researchgate.net/publication/304406740_V-PFORDelta_Data_Compression_for_Energy_Efficient_Computation_of_Time_Series)|2015 IEEE 22nd International Conference on High Performance Computing (HiPC)|√|提出了用于高性能计算的时序数据压缩方案V-PFORDelta，其特点是使用四个样本为一组与上一组计算delta,以及通过位掩码的方式重排|
 [Back to index](../README.md)
